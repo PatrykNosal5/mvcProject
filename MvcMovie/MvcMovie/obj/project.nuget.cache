@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C0+Bpz22yDdAOKqJkX7Hq2U13Up0Ob9W4PeorYiLjkcPcbg3AlTaaKJFkqm6jsGKcWAhGKVq8YL5HEyDxdTcIw==",
+  "dgSpecHash": "QQd+lJUtR6tdoc79tJrJ8odqglGmQmvK9M8fFVtKGsdi4puaKB5WV4zE0yE0b9pTqIXDXNuSypZspeQcX+G5RQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Patryk\\source\\repos\\cwiczenia8_mp-PatrykNosal66\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\Patryk\\source\\repos\\cwiczenia10_mp-PatrykNosal66\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Patryk\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Patryk\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -10614,11 +10614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Patryk\\source\\repos\\cwiczenia8_mp-PatrykNosal66\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Patryk\\source\\repos\\cwiczenia10_mp-PatrykNosal66\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\Patryk\\source\\repos\\cwiczenia8_mp-PatrykNosal66\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\Patryk\\source\\repos\\cwiczenia10_mp-PatrykNosal66\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Patryk\\source\\repos\\cwiczenia8_mp-PatrykNosal66\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\Patryk\\source\\repos\\cwiczenia10_mp-PatrykNosal66\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
